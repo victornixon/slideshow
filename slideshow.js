@@ -1,12 +1,12 @@
 'use strict';
 
 const images = [
-    { 'id': '1', 'url':'imagens/eletricista.png' },
-    { 'id': '2', 'url':'imagens/clubedoacai.png' },
-    { 'id': '3', 'url':'imagens/eletrotec.png' },
-    { 'id': '4', 'url':'imagens/openbar.png' },
-    { 'id': '5', 'url':'imagens/refrigeracao.png' },
-    { 'id': '6', 'url':'imagens/vncelular.png' },
+    { 'id': '1', 'url':'./imagens/eletricista.png' },
+    { 'id': '2', 'url':'./imagens/clubedoacai.png' },
+    { 'id': '3', 'url':'./imagens/eletrotec.png' },
+    { 'id': '4', 'url':'./imagens/openbar.png' },
+    { 'id': '5', 'url':'./imagens/refrigeracao.png' },
+    { 'id': '6', 'url':'./imagens/vncelular.png' },
 ]
 
 const containerItems = document.querySelector('#container-items');
